@@ -1,0 +1,22 @@
+name
+power
+defense
+ability 1
+ability 2
+ability 3
+order effect
+leader name
+leader strength
+leader defense
+
+Illusionist
+4
+5
+Return a hero in your unit to it's owner's hand.
+Choose a rival. They reveal a card from their hand. Use its order effect, then return it.
+Recruit a hero from you hand, attack or cast a spell with it, then discard it.
+Randomly take a card from a rival's hand, use its order effect(if possible), then discard it.
+Arec Russel Zane
+4
+15
+Whenever a rival hero or leader declares a melee attack, you decide which legal target is attacked.
